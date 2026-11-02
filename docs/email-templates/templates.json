@@ -1,0 +1,26 @@
+{
+  "confirm-signup": {
+    "dashboard": "Confirm signup",
+    "subject": "Confirm your Feature Scan account"
+  },
+  "invite-user": {
+    "dashboard": "Invite user",
+    "subject": "You've been invited to Feature Scan"
+  },
+  "magic-link": {
+    "dashboard": "Magic Link",
+    "subject": "Your Feature Scan sign-in link"
+  },
+  "change-email": {
+    "dashboard": "Change Email Address",
+    "subject": "Confirm your new Feature Scan e-mail"
+  },
+  "reset-password": {
+    "dashboard": "Reset Password",
+    "subject": "Reset your Feature Scan password"
+  },
+  "reauthentication": {
+    "dashboard": "Reauthentication",
+    "subject": "Your Feature Scan verification code"
+  }
+}
